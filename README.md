@@ -14,6 +14,10 @@ Every new innovation will be adopted as long as it can contribute to our advance
 
 Hopefully this objective is clear enough and we can together forge this 'Government' into reality.
 
+## Start of The Journey
+1. Learning Solidity - Read it [here](https://github.com/SkyGovernment/SolidityFromZero/blob/main/README.md)
+
+
 - 👋 
 - 👀 
 - 🌱 
@@ -22,7 +26,7 @@ Hopefully this objective is clear enough and we can together forge this 'Governm
 
 ## Links for Reference
 
-
+...More updates to come soon.
 <!---
 SkyGovernment/SkyGovernment is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
