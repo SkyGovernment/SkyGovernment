@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SkyGovernment)](https://github.com/anuraghazra/github-readme-stats)
+
 ## The Idea
 The main idea here was that the Sky Government will evolve into an autonomous decentralized government. It will start with the Government's 'central' Bank.
 Next will be many ministries under which will have few departments.
