@@ -18,15 +18,15 @@ Hopefully this objective is clear enough and we can together forge this 'Governm
 
 ## Start of The Journey
 1. Learning Solidity - Read it [here](https://github.com/SkyGovernment/SolidityFromZero/blob/main/README.md)
+2. Learning ReactJS (because it is the most popular framework)
+3. Learning API between the frontend and backend
 
+## GOALS
 
-- 👋 
-- 👀 
-- 🌱 
-- 💞️ 
-- 📫 
+Just learn enough to deploy a working frontend with smarcontract. Next, will be auditing the code which will be detailed soon upon learning more about smartcontract auditing.
 
-## Links for Reference
+## References
+Will be provided in another file because this is just an overview.
 
 ...More updates to come soon.
 <!---
