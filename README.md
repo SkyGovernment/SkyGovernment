@@ -16,14 +16,19 @@ Every new innovation will be adopted as long as it can contribute to our advance
 
 Hopefully this objective is clear enough and we can together forge this 'Government' into reality.
 
+
+
 ## Start of The Journey
 1. Learning Solidity - Read it [here](https://github.com/SkyGovernment/SolidityFromZero/blob/main/README.md)
 2. Learning ReactJS (because it is the most popular framework)
 3. Learning API between the frontend and backend
+4. Learning Godot game engine.
 
 ## GOALS
 
 Just learn enough to deploy a working frontend with smarcontract. Next, will be auditing the code which will be detailed soon upon learning more about smartcontract auditing.
+
+At least have a running Game prototype to test before the end of 2021.
 
 ## References
 Will be provided in another file because this is just an overview.
