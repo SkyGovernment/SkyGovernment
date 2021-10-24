@@ -16,6 +16,9 @@ Every new innovation will be adopted as long as it can contribute to our advance
 
 Hopefully this objective is clear enough and we can together forge this 'Government' into reality.
 
+Note: Got to revamp the whole stuff.
+
+
 
 
 ## Start of The Journey
