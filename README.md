@@ -1,7 +1,10 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SkyGovernment)](https://github.com/anuraghazra/github-readme-stats)
 
+# On Hiatus
+I haven't upadted anything since mid November, life was so hectic until only recently I had time to contemplate what was happening since then. I will restart this journey from now on(21st February, 2022) and trying my best to at least be here everyday. The reason I use GitHub was to track my journey, but I need to discipline myself to not go astray again.
+
 ## The Idea
-The main idea here was that the Sky Government will evolve into an autonomous decentralized government. It will start with the Government's 'central' Bank.
+The main idea here was that the Sky Government will evolve into an autonomous decentralized government or a DAO(maybe?). It will start with the Government's 'central' Bank.
 Next will be many ministries under which will have few departments.
 
 Starting from the 'central' Bank the government will be focusing on funding it activities within many Blockchains' Multiverse.
